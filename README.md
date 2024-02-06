@@ -1,4 +1,4 @@
-# HbeatCall
+# HBeatCall
 Real connections, ampled by AI
 
 https://linktr.ee/hbeatcall
